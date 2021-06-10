@@ -2,9 +2,9 @@
   <img src="https://img.shields.io/github/workflow/status/ezralazuardy/cats/PlatformIO%20CI?label=build" alt="Build" target="_blank" rel="noopener noreferrer">
 </a>
 
-  <a href="https://github.com/ezralazuardy/cats/actions/workflows/codacy-analysis.yml">
-    <img src="https://img.shields.io/github/workflow/status/ezralazuardy/cats/Codacy%20Security%20Scan?label=security" alt="Security" target="_blank" rel="noopener noreferrer">
-  </a>
+<a href="https://github.com/ezralazuardy/cats/actions/workflows/codacy-analysis.yml">
+  <img src="https://img.shields.io/github/workflow/status/ezralazuardy/cats/Codacy%20Security%20Scan?label=security" alt="Security" target="_blank" rel="noopener noreferrer">
+</a>
 
 <a href="https://github.com/ezralazuardy/cats/releases">
   <img src="https://img.shields.io/github/v/release/ezralazuardy/cats" alt="Releases" target="_blank" rel="noopener noreferrer">
