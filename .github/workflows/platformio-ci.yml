@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        example: [path/to/test/file.c, examples/file.ino, path/to/test/directory]
+        example: [src/main.ino]
 
     steps:
     - uses: actions/checkout@v2
