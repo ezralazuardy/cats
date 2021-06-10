@@ -47,6 +47,8 @@ pio run --target upload
 
 <p align="center"><img src="https://i.ibb.co/SrF1yCj/topology.png" alt="topology" height="200"/></p>
 
+<br/>
+
 ## 📦 Dependencies
 
 - [paulstoffregen/Ethernet](https://platformio.org/lib/show/134/Ethernet/examples?file=LinkStatus.ino)
@@ -58,7 +60,7 @@ pio run --target upload
 
 ## ⚙️ Hardwares
 
-- Arduino UNO R3 Atmega 328P 16U2
+- Arduino Uno R3 Atmega328P 16U2
 - Arduino Ethernet Shield W5100
 - IR Obstacle Avoidance Sensor Module
 - MLX90614 GY-906-BAA Contactless Temperature Sensor Module
