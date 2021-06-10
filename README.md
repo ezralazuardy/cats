@@ -16,7 +16,7 @@
 
 # 😷 CATS
 
-CATS is a Contactless Automatic Thermal Scanner that uses Arduino UNO R3 and HTTP Request to automate thermal scanning purposes.
+CATS is a Contactless Automatic Thermal Scanner that uses Arduino Uno R3 and HTTP Request to automate thermal scanning purposes.
 
 This project used [PlatformIO](https://platformio.org) for compiler and package manager.
 
