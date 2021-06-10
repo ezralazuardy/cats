@@ -14,18 +14,47 @@
 
 CATS is a Contactless Automatic Thermal Scanner that uses Arduino UNO R3 and HTTP Request to automate thermal scanning purposes.
 
-### Topology
+This project use [PlatformIO](https://platformio.org) for compiler and package manager.
+
+<br/>
+
+## 🔨 Build
+
+Open PlatformIO Core CLI and run:
+
+```
+pio lib install
+pio run
+````
+
+<br/>
+
+## 📤 Upload to Arduino Board
+
+Open PlatformIO CLI and connect your Arduino board to PC, then run:
+
+```
+pio run --target upload
+````
+
+<br/>
+
+## 🗺️ Topology
 
 Work in progress...
 
-### Dependencies
+<br/>
+
+## 📦 Dependencies
 
 - [paulstoffregen/Ethernet](https://platformio.org/lib/show/134/Ethernet/examples?file=LinkStatus.ino)
 - [marcoschwartz/LiquidCrystal_I2C](https://platformio.org/lib/show/576/LiquidCrystal_I2C)
 - [adafruit/Adafruit MLX90614 Library](https://platformio.org/lib/show/782/Adafruit%20MLX90614%20Library)
 - [arduino-libraries/ArduinoHttpClient](https://platformio.org/lib/show/798/ArduinoHttpClient)
 
-### Hardwares
+<br/>
+
+## ⚙️ Hardwares
 
 - Arduino UNO R3 Atmega 328P 16U2
 - Arduino Ethernet Shield W5100
@@ -36,4 +65,5 @@ Work in progress...
 - LCD 16x2 (with I2C Serial Interface Module)
 - LAN Cable (RJ45)
 - USB 2.0 Data Cable Type A to B Male to Male
-- Jumper Cable Male to Male & Male to Female
+- Jumper Cable Male to Male
+- Jumper Cable Male to Female
