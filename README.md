@@ -35,7 +35,7 @@ pio run
 
 ## 📤 Upload to Arduino Board
 
-Open PlatformIO CLI and connect your Arduino board to PC, then run:
+Open PlatformIO Core CLI and connect your Arduino board to PC, then run:
 
 ```
 pio run --target upload
