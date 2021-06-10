@@ -45,7 +45,13 @@ pio run --target upload
 
 ## 🗺️ Topology
 
-<p align="center"><img src="https://i.ibb.co/SrF1yCj/topology.png" alt="topology" height="200"/></p>
+<p align="center"><img src="https://i.ibb.co/SrF1yCj/topology.png" alt="Topology"/></p>
+
+<br/>
+
+## 📰 Schema
+
+<p align="center"><img src="https://i.ibb.co/TTbLTG6/rangkaian-digital.png" alt="Schema"></p>
 
 <br/>
 
