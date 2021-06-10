@@ -63,6 +63,9 @@ Work in progress...
 - Active Buzzer 5v
 - Passive Buzzer 5v
 - LCD 16x2 (with I2C Serial Interface Module)
+- LED Red
+- LED Green
+- Metal Film Resistor 0,25W 1% 220 ohm (2 pieces)
 - LAN Cable (RJ45)
 - USB 2.0 Data Cable Type A to B Male to Male
 - Jumper Cable Male to Male
