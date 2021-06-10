@@ -58,8 +58,8 @@ Work in progress...
 
 - Arduino UNO R3 Atmega 328P 16U2
 - Arduino Ethernet Shield W5100
-- IR Obstacle Avoidance Sensor
-- MLX90614 BAA GY-906
+- IR Obstacle Avoidance Sensor Module
+- MLX90614 GY-906-BAA Contactless Temperature Sensor Module
 - Active Buzzer 5v
 - Passive Buzzer 5v
 - LCD 16x2 (with I2C Serial Interface Module)
