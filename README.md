@@ -45,9 +45,7 @@ pio run --target upload
 
 ## 🗺️ Topology
 
-Work in progress...
-
-<br/>
+<p align="center"><img src="https://i.ibb.co/SrF1yCj/topology.png" alt="topology" height="200"/></p>
 
 ## 📦 Dependencies
 
